@@ -1,3 +1,3 @@
 <php
 
-echo "hello git";
+echo "awsome git  class";
